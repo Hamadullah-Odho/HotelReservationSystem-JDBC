@@ -34,12 +34,12 @@ Update database connection credentials in your Java code (DBConnection.java or w
 javac Main.java
 java Main
 
-##Usage
+Usage
 Run the program
 Follow the on-screen menu to add, view, update, or delete reservations
 Input required information when prompted
 
-##Project Structure
+Project Structure
 src/
 └── app/
     └── Main.java
@@ -54,7 +54,7 @@ src/
 └── util/
     └── DateAndTime.java
 
-##Future Improvements
+Future Improvements
 Implement a graphical user interface (GUI) using Swing or JavaFX
 Add user authentication and roles (admin, guest)
 Improve input validation and exception handling
