@@ -8,7 +8,7 @@ final public class DBConnection {
 
     static private String url = "jdbc:mysql://localhost:3306/hotel_db";
     static private String username = "root";
-    static private String password = "0324";
+    static private String password = ""; // add your localhost password here
 
     private DBConnection() {
     }
