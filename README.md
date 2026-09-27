@@ -27,7 +27,7 @@ A simple Java-based Hotel Reservation System designed for beginners to practice 
    
 2. Setup MySQL Database:
 Create a database named hotel_reservation
-Import or create the necessary tables (you can add your SQL schema here or a separate file)
+Import or create the necessary tables
 Update database connection credentials in your Java code (DBConnection.java or wherever configured)
 
 3. Compile and Run
